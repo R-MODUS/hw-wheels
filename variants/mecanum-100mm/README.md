@@ -20,7 +20,6 @@ Part of the [R-MODUS](https://github.com/R-MODUS) project — a modular indoor r
 | Mass | ~0.33 kg |
 | Part material | PLA (3D print) |
 | Roller surface | polyolefin |
-| Bearings | 623 |
 
 ## Bill of materials (one wheel)
 
