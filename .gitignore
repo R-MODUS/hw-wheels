@@ -1,0 +1,18 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.tmp
+
+# Creo / CAD junk (if accidentally added)
+*.crc
+*_out.log*
+traceback.log
+std.out
+*.log.xml
+
+# Build / print leftovers
+*.gcode
