@@ -14,10 +14,10 @@ Katalog mechanických kol. Toto repo **neobsahuje firmware ani ROS** — jen mec
 
 ## Varianty
 
-| Složka | Stav | Popis |
-| --- | --- | --- |
-| [`variants/mecanum-100mm`](variants/mecanum-100mm/) | aktivní | Ø 100 mm, 9 válečků, otvor hřídele Ø 6 mm |
-| [`variants/simple-100mm`](variants/simple-100mm/) | rozpracováno | jednoduché kolo Ø 100 mm |
+| Náhled | Složka | Stav | Popis |
+| --- | --- | --- | --- |
+| <img src="variants/mecanum-100mm/image/mecanum-wheel.png" alt="mecanum-100mm" width="160"/> | [`variants/mecanum-100mm`](variants/mecanum-100mm/) | aktivní | Ø 100 mm, 9 válečků, otvor hřídele Ø 6 mm |
+| — | [`variants/simple-100mm`](variants/simple-100mm/) | rozpracováno | jednoduché kolo Ø 100 mm |
 
 Nová varianta = nová podsložka ve `variants/` se stejným tvarem: `README.md` + `image/` + `step/`.
 
