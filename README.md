@@ -8,12 +8,10 @@ This repo is **mechanical only** — no firmware or ROS.
 
 ## Variants
 
-| Preview | Variant | Status | Summary |
+| Preview | Variant | Summary |
 | --- | --- | --- | --- |
-| <img src="variants/mecanum-100mm/image/mecanum-wheel.png" alt="mecanum-100mm" width="160"/> | [`mecanum-100mm`](variants/mecanum-100mm/) | available | Omnidirectional mecanum wheel, Ø 100 mm, 9 rollers |
-| — | [`simple-100mm`](variants/simple-100mm/) | planned | Simple 3D-printed wheel, Ø 100 mm |
-
-Each variant lives in `variants/<name>/` with `README.md`, `image/`, and `step/`.
+| <img src="variants/mecanum-100mm/image/mecanum-wheel.png" alt="mecanum-100mm" width="160"/> | [`mecanum-100mm`](variants/mecanum-100mm/) | Omnidirectional mecanum wheel, Ø 100 mm, 9 rollers |
+| — | [`simple-100mm`](variants/simple-100mm/) | Simple 3D-printed wheel, Ø 100 mm |
 
 ## Licence
 
